@@ -5,7 +5,7 @@ The goal in this project is to build and run a simple Angular ToDo application i
 ## Pre-requisites
 
 1. Install latest NodeJS version into your machine from https://nodejs.org/en/download/.
-2. Install Angular CLI with `npm install @angular/cli`.
+2. Install Angular CLI with `npm install -g @angular/cli`.
 3. Install Angular Material with `ng add @angular/material`. 
 
 ## Clone the Git Repo into your Local Machine
@@ -19,4 +19,4 @@ Run `npm install`.
 
 ## Run the Application
 
-Run `ng server -o`.
+Run `ng serve -o`.
